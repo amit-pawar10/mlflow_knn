@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Python%20scripts/LinearRegression_MLFlow/mlruns/0/f8dfc8b14a0f4d48a63e967c83a569ef/artifacts
+end_time: 1683618289127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8dfc8b14a0f4d48a63e967c83a569ef
+run_name: popular-hound-890
+run_uuid: f8dfc8b14a0f4d48a63e967c83a569ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683618289020
+status: 4
+tags: []
+user_id: amit.pawar

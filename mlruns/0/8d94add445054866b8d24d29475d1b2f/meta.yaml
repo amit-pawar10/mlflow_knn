@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Python%20scripts/LinearRegression_MLFlow/mlruns/0/8d94add445054866b8d24d29475d1b2f/artifacts
+end_time: 1683618241757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d94add445054866b8d24d29475d1b2f
+run_name: mercurial-kit-694
+run_uuid: 8d94add445054866b8d24d29475d1b2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683618241639
+status: 4
+tags: []
+user_id: amit.pawar

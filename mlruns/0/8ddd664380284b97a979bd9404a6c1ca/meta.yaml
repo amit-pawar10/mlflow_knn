@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Python%20scripts/LinearRegression_MLFlow/mlruns/0/8ddd664380284b97a979bd9404a6c1ca/artifacts
+end_time: 1683617295278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ddd664380284b97a979bd9404a6c1ca
+run_name: sincere-auk-164
+run_uuid: 8ddd664380284b97a979bd9404a6c1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683617232791
+status: 4
+tags: []
+user_id: amit.pawar

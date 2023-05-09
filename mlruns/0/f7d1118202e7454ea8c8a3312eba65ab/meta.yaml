@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Python%20scripts/LinearRegression_MLFlow/mlruns/0/f7d1118202e7454ea8c8a3312eba65ab/artifacts
+end_time: 1683619703523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7d1118202e7454ea8c8a3312eba65ab
+run_name: suave-sow-647
+run_uuid: f7d1118202e7454ea8c8a3312eba65ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683619693479
+status: 3
+tags: []
+user_id: amit.pawar

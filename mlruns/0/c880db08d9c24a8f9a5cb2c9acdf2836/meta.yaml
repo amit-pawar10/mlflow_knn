@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Python%20scripts/LinearRegression_MLFlow/mlruns/0/c880db08d9c24a8f9a5cb2c9acdf2836/artifacts
+end_time: 1683618065175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c880db08d9c24a8f9a5cb2c9acdf2836
+run_name: resilient-owl-157
+run_uuid: c880db08d9c24a8f9a5cb2c9acdf2836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683618054556
+status: 3
+tags: []
+user_id: amit.pawar

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Python%20scripts/LinearRegression_MLFlow/mlruns/0/701b49005d6d4967bb785fc78d23a219/artifacts
+end_time: 1683619130782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 701b49005d6d4967bb785fc78d23a219
+run_name: omniscient-snake-619
+run_uuid: 701b49005d6d4967bb785fc78d23a219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683619121559
+status: 3
+tags: []
+user_id: amit.pawar

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Python%20scripts/LinearRegression_MLFlow/mlruns/0/d69fad071faa42ddbbc72541f85cb9c5/artifacts
+end_time: 1683618508591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d69fad071faa42ddbbc72541f85cb9c5
+run_name: smiling-trout-287
+run_uuid: d69fad071faa42ddbbc72541f85cb9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683618498759
+status: 3
+tags: []
+user_id: amit.pawar
